@@ -1,0 +1,10 @@
+[project]
+name = "mygica-images-storage"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "loguru>=0.7.3",
+    "pillow>=12.1.0",
+]
